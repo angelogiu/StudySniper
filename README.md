@@ -4,6 +4,9 @@ Automated UBC library room booking tool with a cyberpunk terminal UI. Scans LibC
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue) ![Playwright](https://img.shields.io/badge/playwright-async-green) ![Arch](https://img.shields.io/badge/platform-linux-lightgrey)
 
+
+<img width="2528" height="1507" alt="image" src="https://github.com/user-attachments/assets/70376ec4-99b1-451e-8837-6e638c641d04" />
+
 ---
 
 ## Features
