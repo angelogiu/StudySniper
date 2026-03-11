@@ -1,6 +1,6 @@
 # 🎯 UBC Study Sniper
 
-Automated UBC library room booking tool with a cyberpunk terminal UI. Scans LibCal across all UBC libraries and books rooms on your behalf — with a live animated gradient interface that runs the whole time.
+Automated UBC library room booking tool. Scans LibCal across all UBC libraries and books rooms on your behalf.
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue) ![Playwright](https://img.shields.io/badge/playwright-async-green) ![Arch](https://img.shields.io/badge/platform-linux-lightgrey)
 
